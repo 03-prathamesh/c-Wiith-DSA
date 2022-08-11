@@ -2,7 +2,7 @@
 #include<algorithm>   //STL Library
 using namespace std;
 
-
+// Yes i am Now changing This
  void Print(int arr[],int size,int p){     // void Print(int * arr,int size){}     //sysntaxfor formal arguments for receiving arrays  
 
        for(int i=0;i<size;i++){
